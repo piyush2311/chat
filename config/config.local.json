@@ -1,0 +1,17 @@
+{
+	"db": {
+		"username": "root",
+		"password": "root",
+		"host": "localhost",
+		"port": "27017",
+		"authSource":"admin",
+		"name": "chat"
+	},
+	"redis": {
+		"host": "127.0.0.1",
+		"port": 6379,
+		"password": ""
+	},
+	"sessionSecret": "windpowered",
+	"serverPort":3002
+}
